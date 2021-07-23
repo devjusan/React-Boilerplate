@@ -6,7 +6,7 @@ type Props = {
   title: string;
 };
 
-const ss = 'bla';
+const aah = 'bla';
 
 export const Home = ({ title = 'Oi' }: Props) => {
   return (
